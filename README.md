@@ -63,7 +63,7 @@ For additional information, see [CONTRIBUTING.md][contributing-url] for details.
 ## License
 
 <!-- markdownlint-disable MD013 -->
-<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="//purl.org/dc/terms/" property="dct:title">Stone Overrides</span> by <a xmlns:cc="//creativecommons.org/ns#" href="//github.com/ScottKillen" property="cc:attributionName" rel="cc:attributionURL">Scott Killen</a> is licensed under a <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="//purl.org/dc/terms/" href="//github.com/ScottKillen/StoneOverrides" rel="dct:source"><https://github.com/ScottKillen/StoneOverrides></a>.
+<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="//purl.org/dc/terms/" property="dct:title">Stone Overrides</span> by <a xmlns:cc="//creativecommons.org/ns#" href="//github.com/ScottKillen" property="cc:attributionName" rel="cc:attributionURL">Scott Killen</a> is licensed under a <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="//purl.org/dc/terms/" href="//github.com/ScottKillen/StoneOverrides" rel="dct:source"><https://github.com/ScottKillen/StoneOverrides></a>.
 <!-- markdownlint-enable MD013 -->
 
 <!-- CONTACT -->
