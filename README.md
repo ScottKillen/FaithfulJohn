@@ -82,16 +82,16 @@ Project Link: [https://github.com/ScottKillen/StoneOverrides](//github.com/Scott
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: //img.shields.io/github/contributors/ScottKillen/StoneOverrides.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/ScottKillen/StoneOverrides.svg?style=flat-square
 [contributors-url]: //github.com/ScottKillen/StoneOverrides/graphs/contributors
-[forks-shield]: //img.shields.io/github/forks/ScottKillen/StoneOverrides.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/ScottKillen/StoneOverrides.svg?style=flat-square
 [forks-url]: //github.com/ScottKillen/StoneOverrides/network/members
-[stars-shield]: //img.shields.io/github/stars/ScottKillen/StoneOverrides.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/ScottKillen/StoneOverrides.svg?style=flat-square
 [stars-url]: //github.com/ScottKillen/StoneOverrides/stargazers
-[issues-shield]: //img.shields.io/github/issues/ScottKillen/StoneOverrides.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/ScottKillen/StoneOverrides.svg?style=flat-square
 [issues-url]: //github.com/ScottKillen/StoneOverrides/issues
-[license-shield]: //img.shields.io/github/license/ScottKillen/StoneOverrides.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/ScottKillen/StoneOverrides.svg?style=flat-square
 [license-url]: //github.com/ScottKillen/StoneOverrides/blob/master/LICENSE.md
-[code-of-conduct-shield]: //img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?style=flat-square
+[code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?style=flat-square
 [code-of-conduct-url]: //github.com/ScottKillen/StoneOverrides/blob/master/CODE_OF_CONDUCT.md
 [contributing-url]: //github.com/ScottKillen/StoneOverrides/blob/master/CONTRIBUTING.md
