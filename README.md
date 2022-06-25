@@ -23,19 +23,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="//github.com/ScottKillen/StoneOverrides">
+  <a href="//github.com/ScottKillen/FaithfulJohn">
     <img src="source/pack.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Stone Overrides</h3>
+  <h3 align="center">Faithful John</h3>
 
   <p align="center">
     Minecraft Texture Overrides
     <br />
     <br />
-    <a href="//github.com/ScottKillen/StoneOverrides/issues">Report Bug</a>
+    <a href="//github.com/ScottKillen/FaithfulJohn/issues">Report Bug</a>
     ·
-    <a href="//github.com/ScottKillen/StoneOverrides/issues">Request Feature</a>
+    <a href="//github.com/ScottKillen/FaithfulJohn/issues">Request Feature</a>
   </p>
 </p>
 
@@ -63,7 +63,7 @@ For additional information, see [CONTRIBUTING.md][contributing-url] for details.
 ## License
 
 <!-- markdownlint-disable MD013 -->
-<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="//purl.org/dc/terms/" property="dct:title">Stone Overrides</span> by <a xmlns:cc="//creativecommons.org/ns#" href="//github.com/ScottKillen" property="cc:attributionName" rel="cc:attributionURL">Scott Killen</a> is licensed under a <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="//purl.org/dc/terms/" href="//github.com/ScottKillen/StoneOverrides" rel="dct:source"><https://github.com/ScottKillen/StoneOverrides></a>.
+<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="//purl.org/dc/terms/" property="dct:title">Stone Overrides</span> by <a xmlns:cc="//creativecommons.org/ns#" href="//github.com/ScottKillen" property="cc:attributionName" rel="cc:attributionURL">Scott Killen</a> is licensed under a <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="//purl.org/dc/terms/" href="//github.com/ScottKillen/FaithfulJohn" rel="dct:source"><https://github.com/ScottKillen/FaithfulJohn></a>.
 <!-- markdownlint-enable MD013 -->
 
 <!-- CONTACT -->
@@ -71,7 +71,7 @@ For additional information, see [CONTRIBUTING.md][contributing-url] for details.
 
 Scott Killen - [@ScottKillen](https://twitter.com/ScottKillen) - scott@scottkillen.com
 
-Project Link: [https://github.com/ScottKillen/StoneOverrides](//github.com/ScottKillen/StoneOverrides)
+Project Link: [https://github.com/ScottKillen/FaithfulJohn](//github.com/ScottKillen/FaithfulJohn)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -82,16 +82,16 @@ Project Link: [https://github.com/ScottKillen/StoneOverrides](//github.com/Scott
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ScottKillen/StoneOverrides.svg?style=flat-square
-[contributors-url]: //github.com/ScottKillen/StoneOverrides/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ScottKillen/StoneOverrides.svg?style=flat-square
-[forks-url]: //github.com/ScottKillen/StoneOverrides/network/members
-[stars-shield]: https://img.shields.io/github/stars/ScottKillen/StoneOverrides.svg?style=flat-square
-[stars-url]: //github.com/ScottKillen/StoneOverrides/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ScottKillen/StoneOverrides.svg?style=flat-square
-[issues-url]: //github.com/ScottKillen/StoneOverrides/issues
-[license-shield]: https://img.shields.io/github/license/ScottKillen/StoneOverrides.svg?style=flat-square
-[license-url]: //github.com/ScottKillen/StoneOverrides/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/ScottKillen/FaithfulJohn.svg?style=flat-square
+[contributors-url]: //github.com/ScottKillen/FaithfulJohn/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ScottKillen/FaithfulJohn.svg?style=flat-square
+[forks-url]: //github.com/ScottKillen/FaithfulJohn/network/members
+[stars-shield]: https://img.shields.io/github/stars/ScottKillen/FaithfulJohn.svg?style=flat-square
+[stars-url]: //github.com/ScottKillen/FaithfulJohn/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ScottKillen/FaithfulJohn.svg?style=flat-square
+[issues-url]: //github.com/ScottKillen/FaithfulJohn/issues
+[license-shield]: https://img.shields.io/github/license/ScottKillen/FaithfulJohn.svg?style=flat-square
+[license-url]: //github.com/ScottKillen/FaithfulJohn/blob/master/LICENSE.md
 [code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?style=flat-square
-[code-of-conduct-url]: //github.com/ScottKillen/StoneOverrides/blob/master/CODE_OF_CONDUCT.md
-[contributing-url]: //github.com/ScottKillen/StoneOverrides/blob/master/CONTRIBUTING.md
+[code-of-conduct-url]: //github.com/ScottKillen/FaithfulJohn/blob/master/CODE_OF_CONDUCT.md
+[contributing-url]: //github.com/ScottKillen/FaithfulJohn/blob/master/CONTRIBUTING.md
