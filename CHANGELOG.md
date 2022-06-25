@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](//semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 - Revised create buckets to Faithful32 style
+- Add encased large spruce planks from Chisel mod
+- Add varying texture for stone blocks
 
 ## [1.0.1] - 2022-06-12
 ### Fixed
