@@ -72,4 +72,4 @@ We recommend the following workflow:
 8. Return to #2 and repeat, creating a different branch for a new group of
     changes.
 
-[code-of-conduct-url]: <//github.com/ScottKillen/StoneOverrides/blob/master/CODE_OF_CONDUCT.md>
+[code-of-conduct-url]: <//github.com/ScottKillen/FaithfulJohn/blob/master/CODE_OF_CONDUCT.md>
